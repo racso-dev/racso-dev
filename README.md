@@ -1,7 +1,8 @@
 <div>
-    <img width="100%" src="https://raw.githubusercontent.com/racso-dev/racso-dev/master/header.gif">
+    <img style="border-radius: 5px" width="98%" src="https://raw.githubusercontent.com/racso-dev/racso-dev/master/header.gif">
 </div>
 
+<div>
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)
@@ -11,6 +12,8 @@
 ![Swift](https://img.shields.io/badge/Swift-000?&logo=Swift)
 ![C++](https://img.shields.io/badge/C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Haskell](https://img.shields.io/badge/Haskell-000?logo=haskell&logoColor=5d5483)
+
+</div>
 
 ### Technologies
 
