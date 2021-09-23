@@ -1,5 +1,5 @@
 <div>
-    <img style="border-radius: 5px" width="98%" src="https://raw.githubusercontent.com/racso-dev/racso-dev/master/header.gif">
+    <img style="border-radius: 20px" width="98%" src="https://raw.githubusercontent.com/racso-dev/racso-dev/master/header.gif">
 </div>
 
 ### Languages
