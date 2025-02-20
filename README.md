@@ -27,7 +27,7 @@
 ![Apple](https://img.shields.io/badge/Apple-000?&logo=Apple)
 
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=racso-dev&theme=dark&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats-xi-drab.vercel.app?user=racso-dev" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=racso-dev&show_icons=false&theme=dark&hide_border=true" width="49%" />
 </div>
