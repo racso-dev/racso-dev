@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Oscar, a passionate creator!
+# 👋 Hello, I'm Oscar!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Expert;Automation+%26+Innovation;Co-founder+%26+CTO+%40+Tendiz" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate about creation and innovation, I'm a developer who loves transforming complex ideas into concrete solutions. My expertise spans from building applications to designing intelligent automated systems, and solving complex technical challenges.
+Passionate about creation and innovation, I'm a software engineer who loves transforming complex ideas into concrete solutions. My expertise spans from building applications to designing intelligent automated systems, and solving complex technical challenges.
 
 > 💡 **My current mission**: Revolutionize tenders monitoring and response with AI
 
@@ -80,33 +80,6 @@ Passionate about creation and innovation, I'm a developer who loves transforming
 - 📚 **Perfectionist**: Constantly wanting to be better and to do things right. Quick and dirty 🤮
 - 🤔 **Curious**: I'm always looking for new things to learn and new challenges to tackle
 - 🤖 **Automation Lover**: Expert in creating automated workflows using cutting-edge AI/or good old basic bash scripts
-
-## 📊 Development Philosophy
-
-```javascript
-const myPhilosophy = {
-  approach: "Innovation-Driven",
-  principles: [
-    "Automate everything that can be automated",
-    "Create elegant solutions to complex problems",
-    "AI as a transformation lever",
-    "Clean code and scalable architecture"
-  ],
-  motto: "If it can be automated, why do it manually?"
-};
-```
-
-## 🔗 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-renier)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/racso-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar.renier@tendiz.ai)
-
-</div>
-
----
 
 <div align="center">
 
